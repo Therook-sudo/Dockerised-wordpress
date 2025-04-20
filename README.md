@@ -39,7 +39,7 @@ This project demonstrates how to deploy a fully functional WordPress website usi
    docker-compose up -d
    
 3. Expose via ngrok:  
-   ngrok http 8080
+   ngrok http 8000
 
  
 
